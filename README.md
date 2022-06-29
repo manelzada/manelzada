@@ -1,6 +1,6 @@
-## Olá, eu sou Emmanoel Silva Veiga!  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif"  width="30px"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif"  width="30px"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif"  width="30px">
+## Olá, eu sou Emmanoel Silva Veiga!  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif"  width="30"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif"  width="30"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif"  width="30">
 
-<h4>Estudante de ciência da computação e desenvolvedor web/mobile <img src="https://i.pinimg.com/originals/c1/48/9e/c1489e8e276e19e40af67659c7661229.gif" width="25px"> </h4>
+<h4>Estudante de ciência da computação e desenvolvedor web/mobile <img src="https://i.pinimg.com/originals/c1/48/9e/c1489e8e276e19e40af67659c7661229.gif" width="25"> </h4>
 
 <div> 
  <a href="https://discord.gg/nps4kawDPj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
