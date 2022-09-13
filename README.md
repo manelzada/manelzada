@@ -12,15 +12,13 @@
 
 <p>Acadêmico de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia com inglês avançado e apaixonado por tecnologia, desenvolvimento mobile, e solucionar problemas.
 </p>
-
-### 🔭 Me aprofundando em:
-- 🤏 React
      
 ### 💻 Experiência em: 
-- 👌 Flutter modular
-- 👌 Mobx
+- 👌 React
+- 👌 AngularJS
 - 👌 Firebase
-- 🤏 AngularJS 
+- 🤏 Flutter modular
+- 🤏 Mobx
 - 🤏 Spring
     
 📫 Me contate em: emmanoelsveiga@gmail.com
