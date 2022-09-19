@@ -16,10 +16,9 @@
 ### 💻 Experiência em: 
 - 👌 React
 - 👌 AngularJS
+- 👌 NodJS
+- 👌 Typescript
 - 👌 Firebase
-- 🤏 Flutter modular
-- 🤏 Mobx
-- 🤏 Spring
     
 📫 Me contate em: emmanoelsveiga@gmail.com
 
